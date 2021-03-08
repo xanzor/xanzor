@@ -2,7 +2,7 @@
 
 ## I'm a beginner *Front-end defeloper* from Grozny. 
 
-### LAnguages and Technologies:
+### Languages and Technologies:
 ![javascript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux)
