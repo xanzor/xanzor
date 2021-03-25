@@ -1,7 +1,5 @@
 # Hi 👋 my name is **Anzor**
 
-## I'm a beginner *Front-end defeloper* from Grozny. 
-
 ### Languages and Technologies:
 ![javascript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
