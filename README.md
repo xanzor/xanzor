@@ -1,4 +1,4 @@
-# Hi 👋 my name is **Anzor**
+## Hi 👋 my name is **Anzor**
 
 ### Languages and Technologies:
 ![javascript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript)
